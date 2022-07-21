@@ -1,0 +1,17 @@
+1.ML기초 
+<MS Learn Site>
+https://docs.microsoft.com/ko-kr/learn/paths/create-machine-learn-models/
+<github> 
+git clone https://github.com/brframe-ai/ml-basics-kr
+git clone https://github.com/brframe-ai/mslearn-pytorch
+
+2.Azure Quantum
+<MS Learn site>
+https://docs.microsoft.com/ko-kr/learn/paths/quantum-computing-fundamentals/
+
+<DSVM - Jupyter Notebook환경>
+https://docs.microsoft.com/ko-kr/azure/quantum/install-python-qdk?tabs=tabid-conda
+##command prompt
+conda create -n qsharp-env -c microsoft qsharp notebook
+conda activate qsharp-env
+qsharp-env>jupyter notebook
